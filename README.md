@@ -4,8 +4,24 @@ npx create-react-app appName
 configure tailwindCss
 
 git remote add origin https://github.com/kamakshi417/NetflexGpt.git
-git branch -M CSS
-git push -u origin CSS
+git branch -M main
+git push -u origin main
+
+Creating React App
+Configured taiilwind
+Header
+routing of App
+Login form
+Sign up form
+Form Validations
+useRefHook
+Firebase Setup
+Deploy app to production
+Create signup user account
+create redux store with userSlice
+imeplemented signout
+Update Profile
+
 
 #Features
 -Login/Signup
