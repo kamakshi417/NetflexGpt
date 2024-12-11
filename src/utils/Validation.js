@@ -1,5 +1,5 @@
 export const  checkValidation = (email,password,userName)=>{
-    console.log(email);
+  
 let  emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
     if(!emailRegex.test(email))
     return "Enter valid email";
